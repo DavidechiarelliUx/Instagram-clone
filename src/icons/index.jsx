@@ -1,0 +1,13 @@
+import CameraIcon from "./CameraIcon";
+import IGTVIcon from "./IGTVIcon";
+import InstagramLogo from "./InstagramLogo";
+import LikeIcon from "./LikeIcon";
+import MessageIcon from "./MessageIcon";
+import Back from "./Back";
+import Call from "./Call";
+import Home from "./Home";
+import Search from "./Search";
+import AddIcon from "./AddIcon";
+import Heart from "./Heart";
+import UserIcon from "./UserIcon";
+export { CameraIcon, IGTVIcon, InstagramLogo,LikeIcon,MessageIcon,Back, Call, Home, Search, AddIcon, Heart, UserIcon};
